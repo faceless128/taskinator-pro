@@ -13,4 +13,4 @@ A Multi Purpose Task Manager
 * Moment.js
 
 ## Website
-https://lernantino.github.io/taskinator-pro/
+https://faceless128.github.io/taskinator-pro/
